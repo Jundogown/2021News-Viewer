@@ -1,0 +1,13 @@
+.menuList {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-size: 18px;
+  margin: 15px 0px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.menu {
+  margin: 10px 50px;
+}
